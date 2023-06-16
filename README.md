@@ -1,4 +1,4 @@
-### Hi there 👋. I am a freshman student at Bilkent University Computer Engineering Department.
+### Hi there 👋. I am a junior student at Bilkent University Computer Engineering Department.
 
 <!--
 **BartuAlb/BartuAlb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
